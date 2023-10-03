@@ -1,0 +1,5 @@
+{
+    "screenshotPath":"./screenshots",
+    "screenshotPattern":"${DATE}_${TIME}/${FIXTURE}.png",
+    "pageRequestTimeout":10000
+}
